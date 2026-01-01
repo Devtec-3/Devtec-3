@@ -1,4 +1,4 @@
-👋 Hi, I’m Muhammad Abdulwadud Ayinde
+👋 Hi, My name is  Muhammad Abdulwadud Ayinde
 
 **Frontend Engineer** building scalable, user-centric web applications with **React & JavaScript**, exploring **AI-powered products**.
 
