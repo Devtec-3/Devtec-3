@@ -1,17 +1,23 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+👋 Hi, I’m Muhammad Abdulwadud Ayinde
 
-<!--
-**Devtec-3/Devtec-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Engineer** building scalable, user-centric web applications with **React & JavaScript**, exploring **AI-powered products**.
 
-Here are some ideas to get you started:
+* 🔭 **Working on:** AI-powered frontend web applications
+* 🌱 **Learning:** Advanced React, performance & scalable UI patterns
+* 👯 **Collaborating on:** Frontend-focused and AI-enabled products
+* 🤔 **Seeking help with:** System design, product scaling & AI integration
+      send ideal to muhammadabdulwadudalata@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### 🚀 Featured Project
+**AI Career Assistant** – AI-powered web app for CV review, career roadmaps & interview prep
+  👉[ *Pinned repository*](https://github.com/Devtec-3/CareerPilot.git)
 
--->
+### 🛠 Tech Stack
+**React · JavaScript · HTML · CSS · Tailwind · Git · Vercel**
+
+### 🌍 Open To
+**Global & remote frontend opportunities**
+
+### 🔗 Connect
+LinkedIn: [https://www.linkedin.com/in/devtec-3](https://www.linkedin.com/in/devtec-3)
+
