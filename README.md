@@ -6,6 +6,7 @@
 * 🌱 **Learning:** Advanced React, performance & scalable UI patterns
 * 👯 **Collaborating on:** Frontend-focused and AI-enabled products
 * 🤔 **Seeking help with:** System design, product scaling & AI integration
+  
       send ideal to muhammadabdulwadudalata@gmail.com
 
 ### 🚀 Featured Project
